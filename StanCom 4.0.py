@@ -4,7 +4,7 @@ import praw,re
 #Validate Reddit Access
 reddit = praw.Reddit(client_id='Dn_ef002ikq0dw',
                      client_secret='B_8gGLkYtz6aDmZ4tkP5Dj3BFIo',
-                     password='11365abc',
+                     password='zzzzzz',
                      user_agent='pix3lbot_scrape by /u/pix3lbot',
                      username='pix3lbot')
 subreddit = reddit.subreddit('pix3lspace')
